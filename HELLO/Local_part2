@@ -1,0 +1,19 @@
+ <HTMLSubDir>HTMLFiles/</HTMLSubDir>
+ <CodeSubDir>CodeFiles/</CodeSubDir>
+ <ServerDebugFlag>true</ServerDebugFlag>
+ <CPPCompiler>g++</CPPCompiler>
+ <AdditionalSources>
+ </AdditionalSources>
+ <AdditionalIncludeDirs>
+  <IncludeDir>/usr/include/Poco</IncludeDir>
+ </AdditionalIncludeDirs>
+ <AdditionalLibDirs>
+ </AdditionalLibDirs>
+ <AdditionalLibraries>
+  <Library>PocoNet</Library>
+  <Library>PocoUtil</Library>
+  <Library>PocoFoundation</Library>
+  <Library>PocoNetSSL</Library>
+  <Library>pthread</Library>
+ </AdditionalLibraries>
+</ProjectLocalConf>
